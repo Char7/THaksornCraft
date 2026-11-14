@@ -49,10 +49,23 @@ vendor/thai-doc-skills/thai-docx/fonts/national directory and the equivalent
 thai-pdf/fonts/national directory. Without font binaries the renderer cannot
 guarantee font embedding, and display may depend on installed system fonts.
 
-Source code from kien-thai and thai-doc-skills is MIT licensed (see LICENSE
-files under vendor). National fonts have their own non-MIT license. The
-THaksornCraft-specific integration contributions have no separate open-source
-license granted yet; seek approval before redistributing those parts.
+## License
+
+**THaksornCraft's original integration code and project documentation** are
+licensed under the **MIT License**, Copyright (c) 2026 **Char7**.
+See [LICENSE](LICENSE) and the copy in
+[skills/thaksorn-craft/LICENSE](skills/thaksorn-craft/LICENSE).
+
+This repository includes third-party MIT-licensed code from **kien-thai**
+(Copyright (c) 2026 Chakrit Wichian) and **thai-doc-skills**
+(Copyright (c) 2026 Netthip). Their original license texts and attributions
+remain in the relevant `vendor/` directories. These notices are not replaced
+by the THaksornCraft license.
+
+**National Thai fonts are not under MIT.** Their separate DIP/SIPA font
+terms govern the optional font files. No font binaries are published here.
+For details see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and
+[references/licenses.md](skills/thaksorn-craft/references/licenses.md).
 
 ## Tests and limits
 

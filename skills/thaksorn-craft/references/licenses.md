@@ -10,4 +10,4 @@ The upstream font notice states that copying and distribution are allowed withou
 
 Do not claim ownership of upstream code or third-party writing excerpts. This package vendors only kien-thai skill text and scripts (not the separate corpus of reference articles), and the two Thai document skill folders. Preserve all original notices if distributing or changing these components.
 
-THaksornCraft integration code and original instructions are a separate contribution; they do not erase or relicense upstream notices.
+Original THaksornCraft integration code and project instructions are licensed under MIT, Copyright (c) 2026 Char7. The license text is at the repository root `LICENSE` and a copy at `skills/thaksorn-craft/LICENSE` for installations that copy only the skill directory. That license covers Char7's original contributions; it does not replace or relicense any third-party notices or fonts.
