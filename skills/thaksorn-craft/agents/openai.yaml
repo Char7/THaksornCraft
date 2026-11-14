@@ -1,0 +1,4 @@
+interface:
+  display_name: "THaksornCraft"
+  short_description: "Write polished Thai and create Thai Word/PDF documents"
+  default_prompt: "Use $thaksorn-craft to write, review, and format this Thai document, with OfficeCLI optional."

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-14",
+  "project": "THaksornCraft",
+  "sources": [
+    {
+      "repository": "https://github.com/chakrit/kien-thai",
+      "commit": "4844903d33a5013471f76c5310d314c1ad802c79",
+      "license": "MIT",
+      "bundled_paths": [
+        "skills/kien-thai",
+        "skills/kode-thai"
+      ],
+      "omitted": [
+        "corpus",
+        "evals",
+        "tests",
+        "workspace"
+      ]
+    },
+    {
+      "repository": "https://github.com/thaigqsoft/thai-doc-skills",
+      "commit": "6aa488fa2ae1a00b7a9c38dd54feab4889b3fb5a",
+      "license": "MIT code, bundled fonts separately licensed",
+      "bundled_paths": [
+        "thai-docx",
+        "thai-pdf"
+      ]
+    }
+  ]
+}

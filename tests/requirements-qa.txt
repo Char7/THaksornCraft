@@ -1,0 +1,2 @@
+# Development-only PDF inspection (not required by the packaged skill)
+pypdf>=6.0

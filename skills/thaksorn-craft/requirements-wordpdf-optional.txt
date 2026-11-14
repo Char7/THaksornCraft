@@ -1,0 +1,2 @@
+# Optional: Windows + installed Microsoft Word, for DOCX-to-PDF export WITHOUT OfficeCLI
+pywin32>=311
